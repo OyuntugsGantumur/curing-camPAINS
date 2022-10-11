@@ -21,4 +21,4 @@ make drop_user_table
 
 
 ## Contributors
-Tafita Rakotozandry, Max Turkot, Rory Schauder,Oyuntugs Gantumu, Joshua Garcia 
+Oyu Gantumur, Max Turkot, Rory Schauder, Joshua Garcia, Tafita Rakotozandry
